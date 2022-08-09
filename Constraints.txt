@@ -1,0 +1,4 @@
+capacity = n
+
+k     = ceil(sum(multiset) / capacity)
+limit = ceil(sizeof(multiset) / k)
