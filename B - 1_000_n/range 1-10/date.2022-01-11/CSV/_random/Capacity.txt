@@ -1,0 +1,12 @@
+https://www.random.org/integers/?num=1&min=10&max=15&col=5&base=10&format=html&rnd=date.2022-01-11
+15
+
+https://www.random.org/integers/?num=5&min=10&max=100&col=5&base=10&format=html&rnd=date.2022-01-11
+81	51	88	72	16
+
+https://www.random.org/integers/?num=1&min=100&max=500&col=5&base=10&format=html&rnd=date.2022-01-12 
+318 
+
+**********
+
+14	13
