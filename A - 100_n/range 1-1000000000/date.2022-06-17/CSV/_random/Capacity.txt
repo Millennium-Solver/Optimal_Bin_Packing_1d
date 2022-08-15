@@ -1,0 +1,15 @@
+https://www.random.org/integers/?num=100&min=0&max=9&col=10&base=10&format=html&rnd=date.2022-06-17
+8122864657
+4286337848
+8044443963
+
+8691060497
+9144179074
+2222395187
+3253355630
+7612084225
+6137401658
+
+https://www.random.org/integers/?num=18&min=0&max=9&col=9&base=10&format=html&rnd=date.2022-06-17
+(1)812286465
+(1)742863378
