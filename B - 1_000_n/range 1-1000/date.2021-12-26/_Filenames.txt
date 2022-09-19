@@ -1,0 +1,30 @@
+Optimal_Bin_Packing_1d\B - 1_000_n\range 1-1000\date.2021-12-26\
+
+Bin_Packing - 1d - 1_000_n - Capacity_2_000 - K_252 - Limit_4
+Bin_Packing - 1d - 1_000_n - Capacity_3_000 - K_168 - Limit_6
+Bin_Packing - 1d - 1_000_n - Capacity_4_000 - K_126 - Limit_8
+Bin_Packing - 1d - 1_000_n - Capacity_5_000 - K_101 - Limit_10
+Bin_Packing - 1d - 1_000_n - Capacity_6_000 - K_84 - Limit_12
+Bin_Packing - 1d - 1_000_n - Capacity_7_000 - K_72 - Limit_14
+Bin_Packing - 1d - 1_000_n - Capacity_8_000 - K_63 - Limit_16
+Bin_Packing - 1d - 1_000_n - Capacity_9_000 - K_56 - Limit_18
+Bin_Packing - 1d - 1_000_n - Capacity_10_000 - K_51 - Limit_20
+_random\Bin_Packing - 1d - 1_000_n - Capacity_1_109 - K_455 - Limit_3
+_random\Bin_Packing - 1d - 1_000_n - Capacity_1_180 - K_427 - Limit_3
+_random\Bin_Packing - 1d - 1_000_n - Capacity_1_674 - K_301 - Limit_4
+_random\Bin_Packing - 1d - 1_000_n - Capacity_2_490 - K_203 - Limit_5
+_random\Bin_Packing - 1d - 1_000_n - Capacity_2_820 - K_179 - Limit_6
+_random\Bin_Packing - 1d - 1_000_n - Capacity_3_050 - K_166 - Limit_7
+_random\Bin_Packing - 1d - 1_000_n - Capacity_3_796 - K_133 - Limit_8
+_random\Bin_Packing - 1d - 1_000_n - Capacity_4_109 - K_123 - Limit_9
+_random\Bin_Packing - 1d - 1_000_n - Capacity_4_750 - K_106 - Limit_10
+_random\Bin_Packing - 1d - 1_000_n - Capacity_5_303 - K_95 - Limit_11
+_random\Bin_Packing - 1d - 1_000_n - Capacity_5_904 - K_86 - Limit_12
+_random\Bin_Packing - 1d - 1_000_n - Capacity_6_468 - K_78 - Limit_13
+_random\Bin_Packing - 1d - 1_000_n - Capacity_6_729 - K_75 - Limit_14
+_random\Bin_Packing - 1d - 1_000_n - Capacity_7_162 - K_71 - Limit_15
+_random\Bin_Packing - 1d - 1_000_n - Capacity_7_637 - K_66 - Limit_16
+_random\Bin_Packing - 1d - 1_000_n - Capacity_8_495 - K_60 - Limit_17
+_random\Bin_Packing - 1d - 1_000_n - Capacity_8_546 - K_59 - Limit_17
+_random\Bin_Packing - 1d - 1_000_n - Capacity_9_497 - K_54 - Limit_19
+_random\Bin_Packing - 1d - 1_000_n - Capacity_9_501 - K_53 - Limit_19
