@@ -34,3 +34,5 @@ _random\Bin_Packing - 1d - 1_000_n - Capacity_362_030 - K_14 - Limit_72
 _random\Bin_Packing - 1d - 1_000_n - Capacity_491_953 - K_11 - Limit_91
 _random\Bin_Packing - 1d - 1_000_n - Capacity_941_501 - K_6 - Limit_167
 _random\Bin_Packing - 1d - 1_000_n - Capacity_1_768_582 - K_3 - Limit_334
+_random\Bin_Packing - 1d - 1_000_n - Capacity_2_141_230 - K_3 - Limit_334
+_random\Bin_Packing - 1d - 1_000_n - Capacity_2_963_618 - K_2 - Limit_500
