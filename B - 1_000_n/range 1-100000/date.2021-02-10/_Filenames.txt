@@ -21,6 +21,7 @@ _random\Bin_Packing - 1d - 1_000_n - Capacity_201_620 - K_244 - Limit_5
 _random\Bin_Packing - 1d - 1_000_n - Capacity_212_025 - K_232 - Limit_5
 _random\Bin_Packing - 1d - 1_000_n - Capacity_226_942 - K_216 - Limit_5
 _random\Bin_Packing - 1d - 1_000_n - Capacity_233_048 - K_211 - Limit_5
+_random\Bin_Packing - 1d - 1_000_n - Capacity_233_048 - K_211 - Limit_5+2
 _random\Bin_Packing - 1d - 1_000_n - Capacity_295_890 - K_166 - Limit_7
 _random\Bin_Packing - 1d - 1_000_n - Capacity_560_780 - K_88 - Limit_12
 _random\Bin_Packing - 1d - 1_000_n - Capacity_594_279 - K_83 - Limit_13
