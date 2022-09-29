@@ -1,0 +1,11 @@
+Optimal_Bin_Packing\range 100000000-1000000000\date.2022-09-29\
+
+Bin_Packing - 1d - 10_000_n - Capacity_2_000_000_000 - K_2_750 - Limit_4
+Bin_Packing - 1d - 10_000_n - Capacity_3_000_000_000 - K_1_833 - Limit_6
+Bin_Packing - 1d - 10_000_n - Capacity_4_000_000_000 - K_1_375 - Limit_8
+Bin_Packing - 1d - 10_000_n - Capacity_5_000_000_000 - K_1_100 - Limit_10
+Bin_Packing - 1d - 10_000_n - Capacity_6_000_000_000 - K_917 - Limit_11
+Bin_Packing - 1d - 10_000_n - Capacity_7_000_000_000 - K_786 - Limit_13
+Bin_Packing - 1d - 10_000_n - Capacity_8_000_000_000 - K_688 - Limit_15
+Bin_Packing - 1d - 10_000_n - Capacity_9_000_000_000 - K_611 - Limit_17
+Bin_Packing - 1d - 10_000_n - Capacity_10_000_000_000 - K_550 - Limit_19
