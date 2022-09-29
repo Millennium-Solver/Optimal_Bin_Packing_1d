@@ -1,4 +1,4 @@
-Optimal_Bin_Packing\range 100000000-1000000000\date.2022-09-29\
+Optimal_Bin_Packing\C - 10_000_n\range 100000000-1000000000\date.2022-09-29\
 
 Bin_Packing - 1d - 10_000_n - Capacity_2_000_000_000 - K_2_750 - Limit_4
 Bin_Packing - 1d - 10_000_n - Capacity_3_000_000_000 - K_1_833 - Limit_6
