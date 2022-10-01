@@ -1,0 +1,6 @@
+Optimal_Bin_Packing_1d\E - 1_000_000_n\range 1-10000000\date.2020-20-09\
+
+Bin_Packing - 1d - 1_000_000_n - Capacity_20_000_000 - K_250_133 - Limit_4
+Bin_Packing - 1d - 1_000_000_n - Capacity_30_000_000 - K_166_756 - Limit_6
+_random\Bin_Packing - 1d - 1_000_000_n - Capacity_33_174_692 - K_150_798 - Limit_7
+_random\Bin_Packing - 1d - 1_000_000_n - Capacity_221_950_435 - K_22_540 - Limit_45
