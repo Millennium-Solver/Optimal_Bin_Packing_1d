@@ -1,5 +1,0 @@
-https://www.random.org/integers/?num=1&min=30000000&max=35000000&col=1&base=10&format=html&rnd=date.2022-10-01
-33174692
-
-https://www.random.org/integers/?num=1&min=150000000&max=250000000&col=5&base=10&format=html&rnd=date.2021-08-11
-221950435
