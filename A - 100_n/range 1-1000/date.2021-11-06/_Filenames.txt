@@ -1,0 +1,33 @@
+Optimal_Bin_Packing_1d\A - 100_n\range 1-1000\date.2021-11-06\
+
+Bin_Packing - 1d - 100_n - Capacity_2_000 - K_23 - Limit_5
+Bin_Packing - 1d - 100_n - Capacity_3_000 - K_15 - Limit_7
+Bin_Packing - 1d - 100_n - Capacity_4_000 - K_12 - Limit_9
+Bin_Packing - 1d - 100_n - Capacity_5_000 - K_9 - Limit_12
+Bin_Packing - 1d - 100_n - Capacity_6_000 - K_8 - Limit_13
+Bin_Packing - 1d - 100_n - Capacity_7_000 - K_7 - Limit_15
+Bin_Packing - 1d - 100_n - Capacity_8_000 - K_6 - Limit_17
+Bin_Packing - 1d - 100_n - Capacity_9_000 - K_5 - Limit_20
+Bin_Packing - 1d - 100_n - Capacity_10_000 - K_5 - Limit_20
+_random\Bin_Packing - 1d - 100_n - Capacity_1_416 - K_32 - Limit_4
+_random\Bin_Packing - 1d - 100_n - Capacity_1_810 - K_25 - Limit_4
+_random\Bin_Packing - 1d - 100_n - Capacity_2_098 - K_22 - Limit_5
+_random\Bin_Packing - 1d - 100_n - Capacity_2_583 - K_18 - Limit_6
+_random\Bin_Packing - 1d - 100_n - Capacity_2_638 - K_17 - Limit_6
+_random\Bin_Packing - 1d - 100_n - Capacity_3_251 - K_14 - Limit_8
+_random\Bin_Packing - 1d - 100_n - Capacity_3_773 - K_12 - Limit_9
+_random\Bin_Packing - 1d - 100_n - Capacity_4_342 - K_11 - Limit_10
+_random\Bin_Packing - 1d - 100_n - Capacity_4_961 - K_9 - Limit_12
+_random\Bin_Packing - 1d - 100_n - Capacity_5_006 - K_9 - Limit_12
+_random\Bin_Packing - 1d - 100_n - Capacity_5_742 - K_8 - Limit_13
+_random\Bin_Packing - 1d - 100_n - Capacity_6_359 - K_8 - Limit_13
+_random\Bin_Packing - 1d - 100_n - Capacity_6_359 - K_8 - Limit_13+1
+_random\Bin_Packing - 1d - 100_n - Capacity_6_931 - K_7 - Limit_15
+_random\Bin_Packing - 1d - 100_n - Capacity_7_375 - K_7 - Limit_15
+_random\Bin_Packing - 1d - 100_n - Capacity_7_375 - K_7 - Limit_15+1
+_random\Bin_Packing - 1d - 100_n - Capacity_7_568 - K_6 - Limit_17
+_random\Bin_Packing - 1d - 100_n - Capacity_8_272 - K_6 - Limit_17
+_random\Bin_Packing - 1d - 100_n - Capacity_8_681 - K_6 - Limit_17
+_random\Bin_Packing - 1d - 100_n - Capacity_9_315 - K_5 - Limit_20
+_random\Bin_Packing - 1d - 100_n - Capacity_9_638 - K_5 - Limit_20
+_random\Bin_Packing - 1d - 100_n - Capacity_12_506 - K_4 - Limit_25

@@ -1,0 +1,35 @@
+Optimal_Bin_Packing_1d\C - 10_000_n\range 1-100000\date.2021-10-29\
+
+Bin_Packing - 1d - 10_000_n - Capacity_200_000 - K_2_482 - Limit_5
+Bin_Packing - 1d - 10_000_n - Capacity_300_000 - K_1_655 - Limit_7
+Bin_Packing - 1d - 10_000_n - Capacity_400_000 - K_1_241 - Limit_9
+Bin_Packing - 1d - 10_000_n - Capacity_500_000 - K_993 - Limit_11
+Bin_Packing - 1d - 10_000_n - Capacity_600_000 - K_828 - Limit_13
+Bin_Packing - 1d - 10_000_n - Capacity_700_000 - K_710 - Limit_15
+Bin_Packing - 1d - 10_000_n - Capacity_800_000 - K_621 - Limit_17
+Bin_Packing - 1d - 10_000_n - Capacity_900_000 - K_552 - Limit_19
+Bin_Packing - 1d - 10_000_n - Capacity_1_000_000 - K_497 - Limit_21
+_random\Bin_Packing - 1d - 10_000_n - Capacity_175_454 - K_2829 - Limit_4
+_random\Bin_Packing - 1d - 10_000_n - Capacity_205_735 - K_2_413 - Limit_5
+_random\Bin_Packing - 1d - 10_000_n - Capacity_254_900 - K_1_948 - Limit_6
+_random\Bin_Packing - 1d - 10_000_n - Capacity_297_749 - K_1_668 - Limit_6
+_random\Bin_Packing - 1d - 10_000_n - Capacity_306_211 - K_1_621 - Limit_7
+_random\Bin_Packing - 1d - 10_000_n - Capacity_387_958 - K_1_280 - Limit_8
+_random\Bin_Packing - 1d - 10_000_n - Capacity_421_837 - K_1_177 - Limit_9
+_random\Bin_Packing - 1d - 10_000_n - Capacity_492_550 - K_1_008 - Limit_10
+_random\Bin_Packing - 1d - 10_000_n - Capacity_506_356 - K_981 - Limit_11
+_random\Bin_Packing - 1d - 10_000_n - Capacity_589_707 - K_842 - Limit_12
+_random\Bin_Packing - 1d - 10_000_n - Capacity_612_671 - K_811 - Limit_13
+_random\Bin_Packing - 1d - 10_000_n - Capacity_660_642 - K_752 - Limit_14
+_random\Bin_Packing - 1d - 10_000_n - Capacity_732_183 - K_678 - Limit_15
+_random\Bin_Packing - 1d - 10_000_n - Capacity_784_992 - K_633 - Limit_16
+_random\Bin_Packing - 1d - 10_000_n - Capacity_843_886 - K_589 - Limit_17
+_random\Bin_Packing - 1d - 10_000_n - Capacity_866_164 - K_574 - Limit_18
+_random\Bin_Packing - 1d - 10_000_n - Capacity_900_804 - K_552 - Limit_19
+_random\Bin_Packing - 1d - 10_000_n - Capacity_981_015 - K_506 - Limit_20
+_random\Bin_Packing - 1d - 10_000_n - Capacity_1_735_627 - K_286 - Limit_35
+_random\Bin_Packing - 1d - 10_000_n - Capacity_2_883_002 - K_173 - Limit_58
+_random\Bin_Packing - 1d - 10_000_n - Capacity_3_768_582 - K_132 - Limit_76
+_random\Bin_Packing - 1d - 10_000_n - Capacity_4_141_230 - K_120 - Limit_84
+_random\Bin_Packing - 1d - 10_000_n - Capacity_9_459_931 - K_53 - Limit_189
+_random\Bin_Packing - 1d - 10_000_n - Capacity_15_954_037 - K_32 - Limit_313
